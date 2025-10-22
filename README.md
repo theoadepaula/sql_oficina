@@ -1,4 +1,4 @@
-# Desafio de Projeto: Modelagem e Implementação de Banco de Dados para Oficina Mecânica
+# Desafio DIO: Construa um Projeto Lógico de Banco de Dados do Zero
 
 ## Contexto do Desafio
 
