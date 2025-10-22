@@ -17,7 +17,7 @@ O projeto foi implementado utilizando o **MySQL** e está totalmente contido na 
 └── README.md
 ```
 
-## 📝 Modelo Lógico Implementado
+## Modelo Lógico Implementado
 
 O esquema relacional é composto pelas seguintes entidades principais:
 
